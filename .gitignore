@@ -1,0 +1,12 @@
+# The four app repos are cloned here (see README); they are not part of this repo.
+/craft-launcher/
+/wordcraft/
+/gridcraft/
+/deckcraft/
+# Build output and caches
+/bundle/out/
+/bundle/.src/
+/bundle/.target/
+/bundle/.wintarget/
+/bundle/.winstage/
+/bundle/*.log
